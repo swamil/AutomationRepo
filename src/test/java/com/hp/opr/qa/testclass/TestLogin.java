@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
-public class TestLogin {
+public class TestLoginbranch1 {
     WebDriver driver=null;
     ChromeMainPage mainpage;
     public void initpages(){
